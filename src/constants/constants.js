@@ -40,9 +40,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey' },
-  { year: 2018, text: 'Worked as a freelance developer' },
-  { year: 2019, text: 'Founded JavaScript Mastery' },
-  { year: 2020, text: 'Shared my projects with the world' },
-  { year: 2021, text: 'Started my own platform' },
+  { year: 2016, text: 'Graduated Grand Valley State University with my BS in Mathematics with an emphasis on Secondary Education' },
+  { year: 2016, text: 'Accepted my first teaching position as a High School Mathematics Teacher' },
+  { year: 2019, text: 'Accepted a teaching position as a High School Computer Science Teacher' },
+  { year: 2021, text: 'Started the Grace Hopper Program at Fullstack Academy' },
+  { year: 2021, text: 'Graduated from the Grace Hopper Program ' },
 ];
