@@ -17,15 +17,11 @@ import {
 const Technologies = () => (
   <Section id='tech'>
     <SectionDivider />
+    <br />
     <SectionTitle>Technologies</SectionTitle>
-    {/* <SectionText>
-      I've worked with a range of Technologies in the web developments world
-      from front-end to back-end.
-    </SectionText> */}
     <List>
       <ListItem>
         <ListTitle>Languages</ListTitle>
-        <ListParagraph>Experience with: </ListParagraph>
         <ListParagraph> - CSS</ListParagraph>
         <img src='/images/css3.svg' width='100' height='100' />
         <ListParagraph> - HTML</ListParagraph>
@@ -40,7 +36,6 @@ const Technologies = () => (
       </ListItem>
       <ListItem>
         <ListTitle>Libraries and Frameworks</ListTitle>
-        <ListParagraph>Experience with: </ListParagraph>
         <ListParagraph> - React</ListParagraph>
         <img src='/images/react.svg' width='100' height='100' />
         <ListParagraph> - Redux</ListParagraph>
@@ -55,7 +50,6 @@ const Technologies = () => (
       </ListItem>
       <ListItem>
         <ListTitle>Tools and API</ListTitle>
-        <ListParagraph>Experience with: </ListParagraph>
         <ListParagraph> - PostgreSQl</ListParagraph>
         <img src='/images/postgresql.svg' width='100' height='100' />
         <ListParagraph> - Heroku</ListParagraph>
